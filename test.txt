@@ -1,1 +1,3 @@
-this is a test doc, using command line git.
+This is a test doc that I made, using the command line version of git.
+
+I made an edit of this on my branch.
